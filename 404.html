@@ -1,9 +1,14 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <meta http-equiv="refresh" content="0; url=/" />
-</head>
-<body>
-    
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Redirecting...</title>
+    <script type="text/javascript">
+      // Redirect all 404s to index.html so React Router can handle them
+      sessionStorage.redirect = location.href;
+      window.location.replace("/TanitiWebSite/");
+    </script>
+  </head>
+  <body>
+  </body>
 </html>
