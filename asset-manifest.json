@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/TanitiWebSite/static/css/main.df7a836c.css",
+    "main.js": "/TanitiWebSite/static/js/main.7a9d77bf.js",
+    "static/media/islandPicture.jpg": "/TanitiWebSite/static/media/islandPicture.80160bf41993ace51fe2.jpg",
+    "index.html": "/TanitiWebSite/index.html",
+    "main.df7a836c.css.map": "/TanitiWebSite/static/css/main.df7a836c.css.map",
+    "main.7a9d77bf.js.map": "/TanitiWebSite/static/js/main.7a9d77bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df7a836c.css",
+    "static/js/main.7a9d77bf.js"
+  ]
+}
