@@ -8,17 +8,17 @@ export default function Nav() {
         <ul>
           <CustomLink to="/">Home</CustomLink>
 
-          <CustomLink to="/Food">Cuisine</CustomLink>
+          <CustomLink to="/food">Cuisine</CustomLink>
 
-          <CustomLink to="/Lodging">Accommodations</CustomLink>
+          <CustomLink to="/lodging">Accommodations</CustomLink>
 
-          <CustomLink to="/Entertainment">Activities</CustomLink>
+          <CustomLink to="/entertainment">Activities</CustomLink>
 
-          <CustomLink to="/Transportation">Transportation</CustomLink>
+          <CustomLink to="/transportation">Transportation</CustomLink>
 
-          <CustomLink to="/FAQ">FAQ</CustomLink>
+          <CustomLink to="/faq">FAQ</CustomLink>
 
-          <CustomLink to="/Booking">Book Here!</CustomLink>
+          <CustomLink to="/booking">Book Here!</CustomLink>
         </ul>
       </nav>
     </>
