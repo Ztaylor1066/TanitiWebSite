@@ -1,0 +1,79 @@
+.booking-container {
+  display: flex;
+  gap: 2rem;
+  padding: 2rem;
+}
+
+.options-column, .cart-column {
+  flex: 1;
+  background: rgba(255, 255, 255, 0.8);
+  padding: 1rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+.booking-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+  gap: 1rem;
+}
+
+.booking-item button {
+  padding: 0.5rem 1rem;
+  background-color: #2d89ef;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.booking-item button:hover {
+  background-color: #1c5db2;
+}
+
+.cart-column ul {
+  list-style: none;
+  padding: 0;
+}
+
+.cart-column li {
+  margin-bottom: 0.5rem;
+}
+
+.cart-item {
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.5rem;
+}
+
+.cart-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 0.25rem;
+}
+
+.cart-controls button {
+  background-color: #eee;
+  border: none;
+  padding: 0.3rem 0.6rem;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.cart-controls span {
+  font-weight: bold;
+  min-width: 2rem;
+  text-align: center;
+}
+
+.remove-btn {
+  background-color: #ff4d4d;
+  color: white;
+  margin-left: auto;
+}
+.remove-btn:hover {
+  background-color: #d93636;
+}
