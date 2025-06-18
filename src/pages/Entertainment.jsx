@@ -9,7 +9,7 @@ export default function Entertainment() {
           Explore vibrant coral reefs and underwater caves with certified local
           guides.
         </DropDown>
-        <DropDown title="Hiking the Volcanic Train">
+        <DropDown title="Hiking the Volcanic Trail">
           Guided hikes through lush jungle paths and ancient lava fields offer
           both adventure and education.
         </DropDown>
@@ -18,19 +18,19 @@ export default function Entertainment() {
           storytelling every Friday night.
         </DropDown>
         <DropDown title="Beach Day">
-            Take a break and relax on our beautiful beaches.
+          Take a break and relax on our beautiful beaches.
         </DropDown>
         <DropDown title="Explore History">
-            Visit one of our history and art museums and learn about our culture.
+          Visit one of our history and art museums and learn about our culture.
         </DropDown>
         <DropDown title="See Taniti From Above">
-            Soar above the island on a guided helicopter tour.
+          Soar above the island on a guided helicopter tour.
         </DropDown>
-        <DropDown title="Sample the Local Quisine">
-            Explore one of our many restaurants and pubs.
+        <DropDown title="Sample the Local cuisine">
+          Explore one of our many restaurants and pubs.
         </DropDown>
         <DropDown title="Play a Round of Golf">
-            Be one of the first to play on our brand new 9-hold golf course.
+          Be one of the first to play on our brand new 9-hole golf course.
         </DropDown>
       </div>
     </>
@@ -50,4 +50,3 @@ function DropDown({ title, children }) {
     </div>
   );
 }
-
