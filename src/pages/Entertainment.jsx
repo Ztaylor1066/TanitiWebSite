@@ -26,7 +26,7 @@ export default function Entertainment() {
         <DropDown title="See Taniti From Above">
           Soar above the island on a guided helicopter tour.
         </DropDown>
-        <DropDown title="Sample the Local cuisine">
+        <DropDown title="Sample the Local Cuisine">
           Explore one of our many restaurants and pubs.
         </DropDown>
         <DropDown title="Play a Round of Golf">
