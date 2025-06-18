@@ -233,4 +233,5 @@ html{
 .questions li{
     font-size: 1.4rem;
     font: bold;
+    margin-bottom: 1rem;
 }

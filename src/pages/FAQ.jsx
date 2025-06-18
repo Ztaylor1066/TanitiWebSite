@@ -12,8 +12,7 @@ function FAQ() {
             midnight and 9:00 a.m.{" "}
           </li>
           <li>
-            The drinking age on Taniti is 18 and the drinking age is not
-            strictly enforced.
+            The drinking age on Taniti is 18.
           </li>
           <li>
             Many younger Tanitians speak fluent English. Very little English is
